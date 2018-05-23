@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Hello Py 輔仁大學
 
-You can use the [editor on GitHub](https://github.com/yaojenkuo/hello_py_fju/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 關於我
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<https://yaojenkuo.io>
 
-### Markdown
+### 上課互動工具
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<https://www.sli.do/>
 
-```markdown
-Syntax highlighted code block
+### 課程講義
 
-# Header 1
-## Header 2
-### Header 3
+#### 基礎
 
-- Bulleted
-- List
+- [Google Colab](https://yaojenkuo.io/hello_py_fju/google-colab.slides.html)
+- [變數型別](https://yaojenkuo.io/hello_py_fju/variables.slides.html)
+- [資料容器一](https://yaojenkuo.io/hello_py_fju/containers-1.slides.html)
+- [for 迴圈](https://yaojenkuo.io/hello_py_fju/for-loop.slides.html)
+- [資料容器二](https://yaojenkuo.io/hello_py_fju/containers-2.slides.html)
+- [while 迴圈](https://yaojenkuo.io/hello_py_fju/while-loop.slides.html)
+- [自訂函數](https://yaojenkuo.io/hello_py_fju/functions.slides.html)
 
-1. Numbered
-2. List
+#### 應用
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaojenkuo/hello_py_fju/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [處理表格類型檔案](https://yaojenkuo.io/hello_py_fju/pandas-intro.slides.html)
+- [從網頁擷取資料](https://yaojenkuo.io/hello_py_fju/static-scraper.slides.html)
