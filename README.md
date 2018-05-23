@@ -10,6 +10,8 @@
 
 ### 課程講義
 
+[即時的 Google Colab](https://drive.google.com/file/d/1wgFK4Gq-93GIkLcgG_Ae9LCnCHGwpBjP/view?usp=sharing)
+
 #### 基礎
 
 - [Google Colab](https://yaojenkuo.io/hello_py_fju/google-colab.slides.html)
