@@ -31,3 +31,8 @@
 
 - [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=194899-1fb421)
 - [Codecademy](https://www.codecademy.com/catalog/language/python)
+
+#### 推薦自學書籍
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Introducing Python](http://shop.oreilly.com/product/0636920028659.do)
