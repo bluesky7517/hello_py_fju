@@ -27,6 +27,10 @@
 - [從網頁擷取資料](https://yaojenkuo.io/hello_py_fju/static-scraper.slides.html)
 - [處理表格類型檔案](https://yaojenkuo.io/hello_py_fju/pandas-intro.slides.html)
 
+#### 非關課程
+
+- [12 小時學習之後](https://yaojenkuo.io/hello_py_fju/summary.slides.html)
+
 #### 線上練習 Python Programming
 
 - [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=194899-1fb421)
